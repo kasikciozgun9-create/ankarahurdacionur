@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://ankarahurdacionur.com.tr/sitemap.xml
+Sitemap: https://ankarahurdacihuseyin.com.tr/sitemap.xml
